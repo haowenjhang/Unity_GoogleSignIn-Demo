@@ -1,0 +1,7 @@
+#Wed Sep 28 11:14:46 CST 2022
+base.0=/Users/ible.mis38/Documents/haowenjhang/UnityProjects/GoogleSignIn/GoogleSignIn/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/ible.mis38/Documents/haowenjhang/UnityProjects/GoogleSignIn/GoogleSignIn/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes2.dex
