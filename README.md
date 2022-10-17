@@ -9,6 +9,11 @@ Unity 2020.3.2.1
 2. Check Publishing Setting
 3. Check Plugins / Android Setting
 4. Create Keystore and Get `SHA-1` Key 
+5. Call fuction 
+```c#
+GoogleSign()
+GoogleSignOut()
+```
 
 ## How to get SHA-1 Key
 keytool -list -v -keystore "keyStoreName.keystore"
